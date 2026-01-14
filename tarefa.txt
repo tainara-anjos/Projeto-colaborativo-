@@ -1,2 +1,4 @@
 Configurar ambiente 
 Criar estrutura do projeto 
+criar documentação do projeto 
+Implementar funcionalidades inicial
